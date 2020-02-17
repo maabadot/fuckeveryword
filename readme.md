@@ -4,12 +4,9 @@
 
 Inspired by twitter bot [Fuck Every Word 2.0]
 
-Translated and coded by [@maabadot].
-
 #### https://vk.com/fckeveryword
 #### https://t.me/fuckeveryword
 
 [VK]: <https://vk.com/fckeveryword>
 [Telegram]: <https://t.me/fuckeveryword>
 [Fuck Every Word 2.0]: <https://twitter.com/fckeveryword>
-[@maabadot]: <https://vk.com/maabadot>
