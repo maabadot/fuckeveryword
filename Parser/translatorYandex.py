@@ -1,7 +1,7 @@
 import json
 import requests
 
-with open('translate.json', 'r') as configFile:  # config load
+with open('translateConfig.json', 'r') as configFile:  # config load
     config = configFile.read()
 obj = json.loads(config)
 yandex_key = str(obj['yandex_key'])

@@ -4,8 +4,8 @@
 
 Inspired by twitter bot [Fuck Every Word 2.0]
 
-#### https://vk.com/fckeveryword
-#### https://t.me/fuckeveryword
+##### https://vk.com/fckeveryword
+##### https://t.me/fuckeveryword
 
 [VK]: <https://vk.com/fckeveryword>
 [Telegram]: <https://t.me/fuckeveryword>
