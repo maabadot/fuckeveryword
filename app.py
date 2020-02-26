@@ -103,4 +103,4 @@ while True:
 
     print("Line posted: " + line[0][:-1] + ' / ' + line[1][:-1] + ' / ' + line[2][:-1])
     print("Image: " + url)
-    time.sleep(1680)  # 28 minutes; 49 posts a day
+    time.sleep(1730)  # 28 minutes 50 seconds; 49 posts a day
